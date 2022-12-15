@@ -1,2 +1,2 @@
 # studyportal
-It is an open source project based on django-next-jwt. Anyone who wants to learn something on their own through StudyPortal will help you achieve your goal.
+It is an open source project based on django-next-jwt. Anyone who wants to learn something on their own through StudyPortal will help you achieve your goal. It has many features like note, book, reports, exams, dashboard and public profile. This project is divided into two parts, a backend using Django, djangorestframework and djangorestframework-simplejwt, and a frontend using next-react-mui libraries. You can donate to this project if you want.
